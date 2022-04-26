@@ -1,3 +1,3 @@
 # New-Year-Countdown
 
-https://jgss-gabrielsousa.github.io/New-Year-Countdown/
+https://jgss-gabriel-sousa.github.io/New-Year-Countdown/
